@@ -14,9 +14,11 @@
   <p>Step 2: Draw a tight rectangle to cover the head of your pet. Simply left-click the mouse, drag, and release.</p>
   <p>Step 3: Click on either Translate-mine-to-others or Translate-others-to-mine.</p>
   <p>Warning. The images you upload might be used for future research purpose.</p>
-  <button id="mine2others" class="w3-button w3-red">Translate</button>
-  <input type="file" class="w3-input" onchange="previewFile()">
-  <br>
+<form action='#' onsubmit="return false;">
+    <input type='file' class="w3-button w3-red" id='imgfile' />
+    <input type='button' class="w3-button w3-yellow" id='btnLoad' value='Load' onclick='loadImage();' />
+    <button id="mine2others" class="w3-button w3-green">Translate</button>
+</form>
   <canvas id="viewport"></canvas>
   <canvas id="output"></canvas>
   <script src="petswap.js"> </script>
