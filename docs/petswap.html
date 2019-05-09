@@ -6,21 +6,24 @@
 <link rel="stylesheet" type="text/css" href="demo.css">
 </head>
 
-<body>
+<body style="margin:1%;padding:0" >
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-<p><b>Chrome might show an "Insecure content blocked" error for this page. Please click on "Load unsafe scripts" to allow the demo to run.</b></p>
+
+<a target="_blank" href='https://www.nvidia.com/en-us/research/'><img src='images/nvidia.png' style="width:20%;"></a>
+
+<p><b><mark>Chrome might show an "Insecure content blocked" error for this page. Please click on "Load unsafe scripts" to allow the demo to run.</mark></b></p>
 
 <p>To run the demo, please do the following 5 steps.</p>
 <ol>
   <li>Choose a photo of your pet.</li>
-  <li>Click upload.</li>
+  <li>Click <b>Upload</b>.</li>
   <li>Draw a tight rectangle to cover the head of your pet. Simply left-click the mouse, drag, and release.</li>
-  <li>Click on translate.</li>
-  <li>Keep clicking on translate to see other results!!!</li>
+  <li>Click on <b>Translate</b>. Scroll down to see results.</li>
+  <li>Keep clicking on <b>Translate</b> to see more results!!!</li>
 </ol>
 <form action='#' onsubmit="return false;">
     <input type='file' class="w3-button w3-red" id='imgfile' />
-    <input type='button' class="w3-button w3-yellow" id='btnLoad' value='Load' onclick='loadImage();' />
+    <input type='button' class="w3-button w3-yellow" id='btnLoad' value='Upload' onclick='loadImage();' />
     <button id="mine2others" class="w3-button w3-green">Translate</button>
 </form>
   <canvas id="viewport"></canvas>
