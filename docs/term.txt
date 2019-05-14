@@ -1,0 +1,83 @@
+Terms of Use
+NVIDIA RESEARCH AI PLAYGROUND TERMS OF USE (May 31, 2018 version)
+
+These terms are a legal agreement between you and NVIDIA Corporation ("NVIDIA") for the use of the NVIDIA AI Playground, including the website research.nvidia.com/demos and its subdomains and associated services, software and content as updated from time to time.
+
+By using the NVIDIA Research AI Playground, you are affirming that you have read and agree to these terms.
+
+These terms can be accepted only by an adult of legal age of majority in the country in which the NVIDIA Research AI Playground is used.
+
+If you are not old enough to enter into these terms or if you don’t accept all the terms and conditions below, do not use the NVIDIA Research AI Playground.
+
+You agree to use the NVIDIA Research AI Playground only for purposes that are permitted by (a) these terms, and (b) any applicable law, regulation or generally accepted practices or guidelines in the relevant jurisdictions.
+
+1.	Offering
+The NVIDIA Research AI Playground service enables you to upload images, video and/or sound content to NVIDIA servers, associate your content with other content available, run deep learning or inferencing software on the content, and see and download new content generated. The software and content made available by NVIDIA to you are licensed, not sold.
+
+NVIDIA grants you a personal, non-exclusive, non-transferable license to: (a) access and use the website research.nvidia.com/demos and its subdomains and associated services, (b) use the software and content made available by NVIDIA within the NVIDIA Research AI Playground, and (c) view or download, as available, generated content for your use or distribution.
+
+You may load to the NVIDIA Research AI Playground only images, video and/or sound content that you separately own or have sufficient rights and permissions to use (“User Content”), and no other content.
+
+When you upload, submit, store, send or receive User Content to or through the NVIDIA Research AI Playground, you give NVIDIA (and parties NVIDIA works with, including its affiliates, suppliers and customers) a worldwide license to use (including without limitation for neural network training), host, store, reproduce, modify, create derivative works (such as those resulting from translations, adaptations or other changes), communicate, publish, publicly perform, publicly display and distribute such User Content. The rights you grant in this license are for the limited purpose of operating, promoting, and improving the NVIDIA Research AI Playground and content available to all users, and to develop new NVIDIA offerings. This license continues even if you stop using the NVIDIA Research AI Playground. The NVIDIA Research AI Playground may offer you ways to access, download, and remove content that has been provided, but make sure to keep your own back-up copies of your User Content. Also, the scope of services is limited and not all content in all formats can be loaded in the NVIDIA Research AI Playground.
+
+You acknowledge that NVIDIA does not manage or control User Content that you upload, access, store, or distribute through the NVIDIA Research AI Playground, and accepts no responsibility or liability regardless of whether such User Content is transmitted to or by you in breach of these terms.
+
+You acknowledge and agree that NVIDIA may, but is not obligated to, block, monitor, scan or review communications or User Content transmitted through the NVIDIA Research AI Playground and that NVIDIA shall not be responsible for the content of any such communications or transmissions but may remove User Content as it deems appropriate, including if content: doesn’t comply with these terms; pose a security risk; doesn’t comply with the rights of others; or doesn’t comply with applicable law, rule or regulation, or the order or requirement of a court, administrative agency or other governmental body.
+
+Last, when using the NVIDIA Research AI Playground NVIDIA may give you the ability to rate generated content. NVIDIA and its affiliates may also use this information to generally improve their products and services to customers.
+
+2.	Restrictions
+Your use of the NVIDIA Research AI Playground, including NVIDIA-provided software and content, is subject to these restrictions:
+
+2.1	You may not use the NVIDIA Research AI Playground, including its internet connection, for any purpose other than as described in section 1 above.
+
+2.2	You may not copy, sell, rent, sublicense, transfer or distribute or make available to others any portion of the NVIDIA Research AI Playground, except for content NVIDIA indicates you may download.
+
+2.3	You may not use NVIDIA servers for general cloud storage of your data. Further, you may not upload or store any User Content which contains personal information relating to an identifiable individual, financial, health or governmental information, or any other information which may be subject to data privacy or data security laws, rules, or regulations.
+
+2.4	You may not reverse engineer, decompile, disassemble, modify, create derivative works or remove copyright or other proprietary notices from any portion of the NVIDIA Research AI Playground.
+
+2.5 You may not misuse, disrupt or exploit the NVIDIA Research AI Playground or NVIDIA servers for any unauthorized use, or try to access areas not intended for users, or upload to NVIDIA servers any malware (such as viruses, drop dead device, worm, trojan horse, trap, back door or other software routine of such nature), or use NVIDIA servers for any form of excessive automated bulk activity, or to relay any other form of unsolicited advertising or solicitation.
+
+3. The NVIDIA Research AI Playground General Terms
+3.1 Ownership. The NVIDIA Research AI Playground and its contents (excluding User Content), including related intellectual property rights, is and will remain the sole and exclusive property of NVIDIA or its licensors. Except as expressly granted, NVIDIA and its licensors reserve all rights.
+
+3.2 Updates. NVIDIA may at any time change, discontinue, or deprecate any part, or all, of the NVIDIA Research AI Playground, or change or remove features or functionality of the NVIDIA Research AI Playground, and your continued use of the NVIDIA Research AI Playground is deemed acceptance of such changes. Additionally, the NVIDIA Research AI Playground may be temporarily unavailable, inaccessible or slow when NVIDIA is performing maintenance or upgrades or at other times for reasons not within NVIDIA’s reasonable control.
+
+3.3 Third Party Software. The NVIDIA Research AI Playground may come bundled with, or otherwise include or be distributed with, third party software licensed by a NVIDIA supplier and/or open source software provided under an open source license. Use of third party software is subject to the third-party license terms, or in the absence of third party terms, these terms. Copyright to third party software is held by the copyright holders indicated in the third-party software or license.
+
+3.4 Indemnity. By using the NVIDIA Research AI Playground you agree to defend, indemnify and hold harmless NVIDIA and its affiliates and their respective officers, directors, employees and agents from and against any claims, disputes, demands, liabilities, damages, losses, costs and expenses arising out of or in any way connected with your use of the NVIDIA Research AI Playground in breach of these terms or your User Content.
+
+4. Termination
+4.1 If you want to terminate these terms, you may do so by stopping to use the NVIDIA Research AI Playground.
+
+4.2 Your right to use the NVIDIA Research AI Playground terminates automatically without notice from NVIDIA (a) if you fail to comply with these terms, (b) if you engage in illegal or improper use of the NVIDIA Research AI Playground or User Content, or (c) if you commence or participate in any legal proceeding against NVIDIA with respect to the NVIDIA Research AI Playground and its contents. Additionally, NVIDIA may at any time terminate the availability or your use of the NVIDIA Research AI Playground. 4.3 After termination NVIDIA has no obligation to retain, and may delete, your User Content at any time. All provisions of these terms which by their nature should survive termination will survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity, and limitations of liability.
+
+5. No Warranties
+THE NVIDIA RESEARCH AI PLAYGROUND IS PROVIDED BY NVIDIA “AS IS,” “AS AVAILABLE”AND “WITH ALL FAULTS.” TO THE MAXIMUM EXTENT PERMITTED BY LAW, NVIDIA AND ITS AFFILIATES EXPRESSLY DISCLAIM ALL WARRANTIES OF ANY KIND OR NATURE, WHETHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, OR THE ABSENCE OF ANY DEFECTS THEREIN, WHETHER LATENT OR PATENT. NO WARRANTY IS MADE ON THE BASIS OF TRADE USAGE, COURSE OF DEALING OR COURSE OF TRADE.
+
+6. Limitation of Liability
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, NVIDIA AND ITS AFFILIATES SHALL NOT BE LIABLE FOR ANY SPECIAL, INCIDENTAL, PUNITIVE OR CONSEQUENTIAL DAMAGES, OR ANY LOST PROFITS, LOSS OF USE, LOSS OF DATA OR LOSS OF GOODWILL, OR THE COSTS OF PROCURING SUBSTITUTE PRODUCTS, ARISING OUT OF OR IN CONNECTION WITH THESE TERMS OR THE USE OR PERFORMANCE OF THE NVIDIA RESEARCH AI PLAYGROUND OR ITS CONTENTS, WHETHER SUCH LIABILITY ARISES FROM ANY CLAIM BASED UPON BREACH OF CONTRACT, BREACH OF WARRANTY, TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY OR ANY OTHER CAUSE OF ACTION OR THEORY OF LIABILITY. IN NO EVENT WILL NVIDIA’S AND ITS AFFILIATES TOTAL CUMULATIVE LIABILITY UNDER OR ARISING OUT OF THESE TERMS EXCEED US$10.00. THE NATURE OF THE LIABILITY OR THE NUMBER OF CLAIMS OR SUITS SHALL NOT ENLARGE OR EXTEND THIS LIMIT.
+
+These exclusions and limitations of liability shall apply regardless if NVIDIA or its affiliates have been advised of the possibility of such damages, and regardless of whether a remedy fails its essential purpose. These exclusions and limitations of liability form an essential basis of the bargain between the parties, and, absent any of these exclusions or limitations of liability, the provisions of these terms, including, without limitation, the economic terms, would be substantially different.
+
+7. Miscellaneous
+You agree that you will not assign these terms or your rights and obligations by any means or operation of law without NVIDIA’s permission. These terms do not create any third-party beneficiary rights.
+
+These terms and the use of the NVIDIA Research AI Playground will be governed in all respects by the laws of the United States and of the State of Delaware as those laws are applied to contracts entered into and performed entirely within Delaware by Delaware residents, without regard to the conflicts of laws principles. The United Nations Convention on Contracts for the International Sale of Goods is specifically disclaimed. You agree to these terms in the English language.
+
+The state or federal courts residing in Santa Clara County, California shall have exclusive jurisdiction over any dispute or claim arising out of these terms or the use of the NVIDIA Research AI Playground. Notwithstanding this, you agree that NVIDIA shall still be allowed to apply for injunctive remedies or an equivalent type of urgent legal relief in any jurisdiction.
+
+If it turns out that any provision of these terms is not unenforceable, such provision will be construed as limited to the extent necessary to be consistent with and fully enforceable under the law and the remaining provisions will remain in full force and effect. Unless otherwise specified, remedies are cumulative.
+
+If NVIDIA needs to contact you about the NVIDIA Research AI Playground or User Content, you consent to receive the notices by email or through the NVIDIA Research AI Playground and agree that electronic notice will satisfy any legal communication requirements. Please direct your legal notices or other correspondence to NVIDIA Corporation, 2788 San Tomas Expressway, Santa Clara, California 95051, United States of America, Attention: Legal Department.
+
+You may, but don’t have to, provide to NVIDIA suggestions, feature requests or other feedback regarding the NVIDIA Research AI Playground and its contents, including possible enhancements or modifications to it. For any feedback that you voluntarily provide, you hereby grant NVIDIA and its affiliates a perpetual, non-exclusive, worldwide, irrevocable license to use, reproduce, modify, license, sublicense (through multiple tiers of sublicensees), and distribute (through multiple tiers of distributors) it without the payment of any royalties or fees to you. NVIDIA will decide if and how to respond to feedback and if to incorporate feedback into the NVIDIA Research AI Playground.
+
+If you are a copyright owner or an agent thereof and believe that any User Content infringes upon your copyrights, you may submit a notification pursuant to the Digital Millennium Copyright Act ("DMCA") by mailing your notice to the attention of the NVIDIA Copyright Agent, NVIDIA Corporation Legal Department, with an address at 2788 San Tomas Expressway, Santa Clara CA 95051 USA in accordance with 17 U.S.C 512(c)(3). Additional information about NVIDIA’s copyright notice and procedures are located at http://www.nvidia.com/object/copyright_claims.html. You acknowledge that if you fail to comply with all of the DMCA requirements, your DMCA notice may not be valid.
+
+You acknowledge that the software, technology and technical data provided by NVIDIA under these terms are subject to export control under the U.S. Export Administration Regulations (EAR) and economic sanctions regulations administered by the U.S. Department of Treasury’s Office of Foreign Assets Control (OFAC). Therefore, you may not export, re-export or transfer in-country the software, technology and technical data without first obtaining any license or other approval that may be required by the Bureau of Industry and Security (BIS) and/or OFAC. By accepting these terms, you confirm that you are not a resident or citizen of any country currently embargoed by the U.S. and that you are not otherwise prohibited from receiving the software, technology and technical data.
+
+These terms are the entire agreement between you and NVIDIA concerning the NVIDIA Research AI Playground. If you do not comply with these terms, and NVIDIA doesn’t take action right away, this doesn’t mean that NVIDIA is giving up any rights that NVIDIA may have (such as taking action in the future).
+
+NVIDIA may make changes to these terms from time to time. NVIDIA will publish the new terms at the NVIDIA Research AI Playground. The updated terms will be effective when published. Please review the NVIDIA Research AI Playground terms of use on a regular basis. You understand and agree that your express acceptance of the updated terms of use or your use of the NVIDIA Research AI Playground after the date of publication shall constitute your agreement to the updated the NVIDIA Research AI Playground terms of use. If you do not agree with the updated terms, you must terminate your use of the NVIDIA Research AI Playground.
