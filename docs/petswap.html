@@ -1,56 +1,53 @@
-<!DOCTYPE HTML>
-<html>
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-140332927-2"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
 
-<head>
+      gtag('config', 'UA-140332927-2');
+    </script>
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-140332927-2"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" type="text/css" href="demo.css">
+  </head>
+  <body style="margin:1%;padding:0" >
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 
-  gtag('config', 'UA-140332927-2');
-</script>
+    <a target="_blank" href='https://www.nvidia.com/en-us/research/'>
+      <img src='images/nvidia.png' style="width:20%;" alt='Nvidia logo'>
+    </a>
 
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<link rel="stylesheet" type="text/css" href="demo.css">
-</head>
+    <center><h2>PetSwap Demo of Few-Shot Unsupervised Image-to-Image Translation</h2></center>
+    <center><h2><strong><a href="index.html">Project </a> | <a href="https://arxiv.org/abs/1905.01723">Paper</a> | <a href="https://github.com/nvlabs/FUNIT/">Code</a> </strong></h2></center>
 
-<body style="margin:1%;padding:0" >
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-
-<a target="_blank" href='https://www.nvidia.com/en-us/research/'><img src='images/nvidia.png' style="width:20%;"></a>
-
-<center><h2>PetSwap Demo of Few-Shot Unsupervised Image-to-Image Translation</h2></center>
-<center><h2><strong><a href="index.html">Project </a> | <a href="https://arxiv.org/abs/1905.01723">Paper</a> | <a href="https://github.com/nvlabs/FUNIT/">Code</a> </strong></h2></center>
-
-<h3>
-<p><b><mark>Tested on Firefox and Chrome.</mark></b></p>
-<p>To run the demo, please do the following 5 steps.</p>
-<ol>
-  <li>Choose a photo of your pet.</li>
-  <li>
-    Click <b>Upload</b>.</br>
-    <b><mark>Chrome might show an "Insecure content blocked" error <img src='images/unsafe.png'/> at the right end of the url bar after clicking on Upload.</br>
-    Please click on the error icon and then "Load unsafe scripts" to allow the demo to run.</br>
-    For Firefox, please click on the lock icon <img src='images/lock.png'/> on the left end of the url bar, then "Connection", and "Disable protection for now".</br> 
-    Retry the Upload step.</mark></b>
-  </li>
-  <li>Draw a tight rectangle to cover the head of your pet. Simply left-click the mouse, drag, and release.</li>
-  <li>Click on <b>Translate</b>. Scroll down to see results.</li>
-  <li>Keep clicking on <b>Translate</b> to see more results!!!</li>
-</ol>
-</h3>
-<form action='#' onsubmit="return false;">
-    <input type='file' class="w3-button w3-red" id='imgfile' />
-    <input type='button' class="w3-button w3-yellow" id='btnLoad' value='Upload' onclick='loadImage();' />
-    <button id="mine2others" class="w3-button w3-green">Translate</button>
-</form>
-  <p class="w3-gray">By uploading a file, you are agreeing to this service’s <a href="term.txt">Terms and Conditions.</a>. See our <a href="https://www.nvidia.com/en-us/about-nvidia/privacy-policy/">Privacy Policy.</a>.</p>
-  <canvas id="viewport"></canvas>
-  <canvas id="output"></canvas>
-  <script src="petswap.js"> </script>
-
-</body>
-
+    <h3>
+      <p><b><mark>Tested on Firefox and Chrome.</mark></b></p>
+      <p>To run the demo, please do the following 5 steps.</p>
+      <ol>
+        <li>Choose a photo of your pet.</li>
+        <li>
+          Click <b>Upload</b>.</br>
+          <b><mark>Chrome might show an "Insecure content blocked" error <img src='images/unsafe.png'/> at the right end of the url bar after clicking on Upload.</br>
+          Please click on the error icon and then "Load unsafe scripts" to allow the demo to run.</br>
+          For Firefox, please click on the lock icon <img src='images/lock.png'/> on the left end of the url bar, then "Connection", and "Disable protection for now".</br> 
+          Retry the Upload step.</mark></b>
+        </li>
+        <li>Draw a tight rectangle to cover the head of your pet. Simply left-click the mouse, drag, and release.</li>
+        <li>Click on <b>Translate</b>. Scroll down to see results.</li>
+        <li>Keep clicking on <b>Translate</b> to see more results!!!</li>
+      </ol>
+    </h3>
+    <form action='#' onsubmit="return false;">
+      <input type='file' class="w3-button w3-red" id='imgfile' />
+      <input type='button' class="w3-button w3-yellow" id='btnLoad' value='Upload' onclick='loadImage();' />
+      <button id="mine2others" class="w3-button w3-green">Translate</button>
+    </form>
+    <p class="w3-gray">By uploading a file, you are agreeing to this service’s <a href="term.txt">Terms and Conditions.</a>. See our <a href="https://www.nvidia.com/en-us/about-nvidia/privacy-policy/">Privacy Policy.</a>.</p>
+    <canvas id="viewport"></canvas>
+    <canvas id="output"></canvas>
+    <script src="petswap.js"> </script>
+  </body>
 </html>
