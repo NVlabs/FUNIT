@@ -1,6 +1,6 @@
 @inproceedings{liu2019few,
   title={Few-Shot Unsupervised Image-to-Image Translation},
   author={Ming-Yu Liu and Xun Huang and Arun Mallya and Tero Karras and Timo Aila and Jaakko Lehtinen and Jan Kautz},
-  booktitle={arXiv},
+  booktitle={IEEE International Conference on Computer Vision (ICCV)},
   year={2019}
 }
