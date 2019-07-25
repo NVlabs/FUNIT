@@ -29,8 +29,16 @@ The code is released for academic research use only. For commercial use, please 
 - Install [Anaconda3](https://www.anaconda.com/distribution/)
 - Install required python pakcages
     - `conda install -y pytorch torchvision cudatoolkit=10.0 -c pytorch`
+    - `conda install -y -c anaconda pip`
+    - `pip install pyyaml tensorboardX`
+    - `conda install -y -c menpo opencv3`
 
 To reproduce the results reported in the paper, you would need an **NVIDIA DGX1 machine with 8 V100 GPUs**.
+
+## Hardware Requirement
+
+To reproduce the experiment results reported in our ICCV paper, you would need to have an NVIDIA DGX1 machine with 8 V100 32GB GPUs. The training will use all 8 GPUS and take almost all of the GPU memory. It would take about 2 weeks to finish the training.
+
 
 ## Dataset Preparation
 
@@ -56,7 +64,7 @@ python tools/extract_animalfaces.py datasets/ILSVRC/Data/CLS-LOC/train --output_
 
 Once the animal face dataset is prepared, you can train an animal face translation model by running
 ```bash
-python train.py --config configs/funit_animals.yaml
+python train.py --config configs/funit_animals.yaml --multigpus
 ```
 
 For training a model for a different task, please create a new config file based on the [example config](configs/funit_animals.yaml).
