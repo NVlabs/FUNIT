@@ -46,7 +46,7 @@ tar xvf ILSVRC2012_img_train.tar
 ```
 - The training images should be in `datasets/ILSVRC/Data/CLS-LOC/train`. Now, extract the animal face images by running
 ```
-python tools/extract_animal_faces.py datasets/ILSVRC/Data/CLS-LOC/train --output_folder datasets/animals --coor_file datasets/animal_face_coordinates.txt
+python tools/extract_animalfaces.py datasets/ILSVRC/Data/CLS-LOC/train --output_folder datasets/animals --coor_file datasets/animalface_coordinates.txt
 ```
 - The animal face images should be in `datasets/animals`. Note there are 149 folders. Each folder contains images of one animal kind. The number of images of the dataset is 117,484.
 - We use 119 animal kinds for training and the ramining 30 animal kinds for evaluation. 
