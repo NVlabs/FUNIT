@@ -24,7 +24,7 @@ The code is released for academic research use only. For commercial use, please 
 ## Installation
 
 - Clone this repo `git clone https://github.com/NVlabs/FUNIT.git`
-- Install [CUDA10.1+](https://developer.nvidia.com/cuda-downloads)
+- Install [CUDA10.0+](https://developer.nvidia.com/cuda-downloads)
 - Install [cuDNN7.5](https://developer.nvidia.com/cudnn)
 - Install [Anaconda3](https://www.anaconda.com/distribution/)
 - Install required python pakcages
