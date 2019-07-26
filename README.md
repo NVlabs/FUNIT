@@ -59,15 +59,42 @@ python tools/extract_animalfaces.py datasets/ILSVRC/Data/CLS-LOC/train --output_
 - The animal face images should be in `datasets/animals`. Note there are 149 folders. Each folder contains images of one animal kind. The number of images of the dataset is 117,484.
 - We use 119 animal kinds for training and the ramining 30 animal kinds for evaluation. 
 
+## Testing Trained Models
 
-## Training New Models
+To test the pretrained model, please first create a folder `pretrained` under the root folder. Then, we need to downlowad the pretrained models via the [link](https://drive.google.com/open?id=1CsmSSWyMngtOLUL5lI-sEHVWc2gdJpF9) and save it in `pretrained`. Untar the file `tar xvf pretrained.tar.gz`.
 
-Once the animal face dataset is prepared, you can train an animal face translation model by running
+Now, we can test the translation
+```bash
+python test_k_shot.py --config configs/funit_animals.yaml --ckpt pretrained/animal149_gen.pt --input images/input_content.jpg --class_image_folder images/n02138411 --output images/output.jpg
+```
+
+The above command with translate the input image
+
+`images/input_content.jpg`
+
+![input image](images/input_content.jpg) 
+
+
+to an output meerkat image
+
+![output image](images/output.jpg)
+
+by using a set of 5 example meerkat images
+
+![](images/n02138411/n02138441_75-167_65_407_273_0.999893.jpg)![](images/n02138411/n02138441_280-143_11_438_245_0.999972.jpg)![](images/n02138411/n02138441_390-123_44_362_247_0.999989.jpg)![](images/n02138411/n02138441_763-141_168_340_352_0.999998.jpg)![](images/n02138411/n02138441_1512-174_67_408_267_0.999992.jpg)
+
+
+## Training Pretrained Models
+
+Once the animal face dataset is prepared, you can train an animal face translation model by running.
+
 ```bash
 python train.py --config configs/funit_animals.yaml --multigpus
 ```
 
-For training a model for a different task, please create a new config file based on the [example config](configs/funit_animals.yaml).
+The results will be stored in `outputs/funit_animals`.
+
+For custom dataset, you would need to write an new configuration file. Please create one based on the [example config file](configs/funit_animals.yaml).
 
 ### Citation
 If you use this code for your research, please cite our papers.
