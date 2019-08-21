@@ -7,7 +7,7 @@
 ### [Project page](https://nvlabs.github.io/FUNIT/) |   [Paper](https://arxiv.org/abs/1905.01723) | [FUNIT Explained](https://youtu.be/kgPAqsC8PLM) | [PetSwap Demo Video](https://youtu.be/JTu-U0C4xEU) | [Have fun with PetSwap](https://nvlabs.github.io/FUNIT/petswap.html)
 
 
-Few-shot Unsueprvised Image-to-Image Translation<br>
+Few-shot Unsupervised Image-to-Image Translation<br>
 [Ming-Yu Liu](http://mingyuliu.net/), [Xun Huang](http://www.cs.cornell.edu/~xhuang/), [Arun Mallya](http://arunmallya.com/), [Tero Karras](https://research.nvidia.com/person/tero-karras), [Timo Aila](https://users.aalto.fi/~ailat1/), [Jaakko Lehtinen](https://users.aalto.fi/~lehtinj7/), and [Jan Kautz](http://jankautz.com/).<br>
 In arXiv 2019.
 
