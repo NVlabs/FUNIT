@@ -4,7 +4,7 @@
 # FUNIT: Few-Shot Unsupervised Image-to-Image Translation
 ![animal swap gif](docs/images/animal.gif)
 
-### [Project page](https://nvlabs.github.io/FUNIT/) |   [Paper](https://arxiv.org/abs/1905.01723) | [FUNIT Explained](https://youtu.be/kgPAqsC8PLM) | [PetSwap Demo Video](https://youtu.be/JTu-U0C4xEU) | [Have fun with PetSwap](https://nvlabs.github.io/FUNIT/petswap.html)
+### [Project page](https://nvlabs.github.io/FUNIT/) |   [Paper](https://arxiv.org/abs/1905.01723) | [FUNIT Explained](https://youtu.be/kgPAqsC8PLM) | [GANimal Demo Video](https://youtu.be/JTu-U0C4xEU) | [Have fun with GANimal](https://nvlabs.github.io/FUNIT/ganimal.html)
 
 
 Few-shot Unsueprvised Image-to-Image Translation<br>
