@@ -21,6 +21,9 @@ Licensed under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-
 
 The code is released for academic research use only. For commercial use, please contact [researchinquiries@nvidia.com](researchinquiries@nvidia.com).
 
+For press and other inquiries, please contact [Hector Marinez](hmarinez@nvidia.com)
+
+
 ## Installation
 
 - Clone this repo `git clone https://github.com/NVlabs/FUNIT.git`
