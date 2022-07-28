@@ -90,7 +90,7 @@ The above command with translate the input image
 ![input image](images/input_content.jpg) 
 
 
-to an output meerkat image
+To output a meekrat image
 
 ![output image](images/output.jpg)
 
